@@ -21,13 +21,14 @@ text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40
 h3:hover {color: gold;
 }
 
-div {
-    float: left;
-}
+
 body {
     background-color: black;
 }
 
 pre:hover {
+    color: red;
+}
+a { 
     color: red;
 }
